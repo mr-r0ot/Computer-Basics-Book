@@ -10,3 +10,6 @@ Mr Mohammad Taha Gorji
 
 # Download
 Persian Version: https://github.com/mr-r0ot/Computer-Basics-Book/blob/main/ComputerBasics(persian).pdf
+
+# Links
+openlibrary: https://openlibrary.org/books/OL59186980M/Computer_Basics_%D9%81%D8%A7%D8%B1%D8%B3%DB%8C
